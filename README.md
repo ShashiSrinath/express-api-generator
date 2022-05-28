@@ -35,6 +35,13 @@ this will generate a full crud code for the given feature based on the provided 
 ```
 npx typescript-express-api-generator feature meta_file.json
 ```
+or
+```
+npm i -g typescript-express-api-generator
+```
+```
+txa-generator feature meta_file.json
+```
 
 ### Data type support
 - string
