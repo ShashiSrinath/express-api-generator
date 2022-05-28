@@ -1,4 +1,4 @@
-# @shashi/express-api-generator
+# typescript-express-api-generator
 
 this is a file generator utility that can be used with my express typescript starter repo
 https://github.com/ShashiSrinath/node-express-typescript-starter

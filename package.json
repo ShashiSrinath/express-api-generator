@@ -1,6 +1,6 @@
 {
-  "name": "@shashi/express-api-generator",
-  "version": "1.0.0",
+  "name": "typescript-express-api-generator",
+  "version": "1.1.0",
   "description": "this is a file generator utility that can be used with my express typescript starter repo\nhttps://github.com/ShashiSrinath/node-express-typescript-starter",
   "main": "runner.js",
   "scripts": {
