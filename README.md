@@ -40,7 +40,7 @@ or
 npm i -g typescript-express-api-generator
 ```
 ```
-txa-generator feature meta_file.json
+txa-generator features meta_file.json
 ```
 
 ### Data type support
