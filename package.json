@@ -1,0 +1,26 @@
+{
+  "name": "@shashi/express-api-generator",
+  "version": "1.0.0",
+  "description": "this is a file generator utility that can be used with my express typescript starter repo\nhttps://github.com/ShashiSrinath/node-express-typescript-starter",
+  "main": "runner.js",
+  "scripts": {
+    "start": "node runner.js"
+  },
+  "keywords": [],
+  "author": "Shashi Srinath",
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "^2.6.2"
+  },
+  "bin": {
+    "multiply": "bin/index.js"
+  },
+  "prettier": {
+    "semi": true,
+    "singleQuote": true,
+    "printWidth": 160
+  },
+  "dependencies": {
+    "change-case": "^4.1.2"
+  }
+}
