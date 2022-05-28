@@ -1,12 +1,15 @@
 {
   "name": "typescript-express-api-generator",
-  "version": "1.1.0",
+  "version": "1.2.0",
+  "repository": {
+    "url": "https://github.com/ShashiSrinath/express-api-generator"
+  },
   "description": "this is a file generator utility that can be used with my express typescript starter repo\nhttps://github.com/ShashiSrinath/node-express-typescript-starter",
   "main": "runner.js",
   "scripts": {
     "start": "node runner.js"
   },
-  "keywords": [],
+  "keywords": ["express", "typescript", "api", "generator"],
   "author": "Shashi Srinath",
   "license": "ISC",
   "devDependencies": {
