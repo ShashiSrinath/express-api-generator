@@ -33,7 +33,7 @@ this will generate a full crud code for the given feature based on the provided 
 - run the below command
 
 ```
-npx typescript-express-api-generator feature meta_file.json
+npx typescript-express-api-generator features meta_file.json
 ```
 or
 ```
